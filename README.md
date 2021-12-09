@@ -1,2 +1,3 @@
-# Initial page
+# Welcome!
 
+Welcome to Learn ENS
