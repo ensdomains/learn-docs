@@ -1,0 +1,2 @@
+# Avoiding Scams
+
