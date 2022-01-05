@@ -24,7 +24,7 @@ Learn More: [what-is-a-grace-period.md](what-is-a-grace-period.md "mention")
 
 Our app will provide an estimated the cost based upon current gas fees. Your actual registration cost may be higher or lower due to the fluctuating gas prices.
 
-![Total = (Yearly Registration Cost \* Years) + Gas.](../../../.gitbook/assets/learn-registration-estimatedprice.png)
+![Total = (Yearly Registration Cost \* Years) + Gas.](../../.gitbook/assets/learn-registration-estimatedprice.png)
 
 The price displayed is a conservative estimate to ensure the user has the necessary amount of Ether in their wallet. Actual gas prices will vary and are often lower. Check your wallet settings to ensure you are paying the optimal amount.
 
@@ -32,4 +32,4 @@ The price displayed is a conservative estimate to ensure the user has the necess
 
 All transactions on the Ethereum blockchain incur a gas fee in addition to the registration fees. We recommend increasing the registration period to avoid paying gas every year.
 
-&#x20;Learn More: [what-are-gas-fees.md](../../wallets/what-are-gas-fees.md "mention")
+&#x20;Learn More: [what-are-gas-fees.md](../wallets/what-are-gas-fees.md "mention")
