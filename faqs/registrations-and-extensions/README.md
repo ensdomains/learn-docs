@@ -1,4 +1,4 @@
-# Registrations & Renewals
+# Registrations & Extensions
 
 {% content-ref url="how-long-will-it-take-for-my-transaction-to-finish.md" %}
 [how-long-will-it-take-for-my-transaction-to-finish.md](how-long-will-it-take-for-my-transaction-to-finish.md)
@@ -12,8 +12,8 @@
 [why-are-there-3-steps-for-registration.md](why-are-there-3-steps-for-registration.md)
 {% endcontent-ref %}
 
-{% content-ref url="what-is-a-premium-auction/" %}
-[what-is-a-premium-auction](what-is-a-premium-auction/)
+{% content-ref url="what-is-a-premium-auction.md" %}
+[what-is-a-premium-auction.md](what-is-a-premium-auction.md)
 {% endcontent-ref %}
 
 {% content-ref url="what-is-a-grace-period.md" %}

@@ -8,14 +8,14 @@
 
 ## FAQs
 
-* [Registrations & Renewals](faqs/registrations-and-renewals/README.md)
-  * [How long will it take for my transaction to finish?](faqs/registrations-and-renewals/how-long-will-it-take-for-my-transaction-to-finish.md)
-  * [How much does it cost to register an ENS Name?](faqs/registrations-and-renewals/how-much-does-it-cost-to-register-an-ens-name.md)
-  * [Why are there 3 steps for registration?](faqs/registrations-and-renewals/why-are-there-3-steps-for-registration.md)
-  * [What is a premium auction?](faqs/registrations-and-renewals/what-is-a-premium-auction/README.md)
-    * [I already paid for a registration, why isn't it in my wallet?](faqs/registrations-and-renewals/what-is-a-premium-auction/i-already-paid-for-a-registration-why-isnt-it-in-my-wallet.md)
-  * [What is a grace period?](faqs/registrations-and-renewals/what-is-a-grace-period.md)
-  * [How do I use an ENS name after purchasing it on a secondary marketplace?](faqs/registrations-and-renewals/how-do-i-use-an-ens-name-after-purchasing-it-on-a-secondary-marketplace.md)
+* [Registrations & Extensions](faqs/registrations-and-extensions/README.md)
+  * [How long will it take for my transaction to finish?](faqs/registrations-and-extensions/how-long-will-it-take-for-my-transaction-to-finish.md)
+  * [How much does it cost to register an ENS Name?](faqs/registrations-and-extensions/how-much-does-it-cost-to-register-an-ens-name.md)
+  * [Why are there 3 steps for registration?](faqs/registrations-and-extensions/why-are-there-3-steps-for-registration.md)
+  * [What is a premium auction?](faqs/registrations-and-extensions/what-is-a-premium-auction.md)
+  * [I already paid for a registration, why isn't it in my wallet?](faqs/registrations-and-extensions/i-already-paid-for-a-registration-why-isnt-it-in-my-wallet.md)
+  * [What is a grace period?](faqs/registrations-and-extensions/what-is-a-grace-period.md)
+  * [How do I use an ENS name after purchasing it on a secondary marketplace?](faqs/registrations-and-extensions/how-do-i-use-an-ens-name-after-purchasing-it-on-a-secondary-marketplace.md)
 * [Names & Records](faqs/names-and-records/README.md)
   * [Why isn't the Resolver set to my address?](faqs/names-and-records/why-isnt-the-resolver-set-to-my-address.md)
   * [How do I set a Primary Name for my wallet?](faqs/names-and-records/how-do-i-set-a-primary-name-for-my-wallet.md)
