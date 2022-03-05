@@ -18,7 +18,7 @@ The Ethereum Name service pricing is structured to deter domain squatting.
 
 Three and four character names have "premium" pricing to reflect the small number of these names available. If a name was recently released from the expiration grace period, a decaying price premium is also applied.
 
-Learn More: [what-is-a-grace-period.md](what-is-a-grace-period.md "mention")
+Learn More: [what-is-a-grace-period.md](../ens-names/registrations-and-renewals/what-is-a-grace-period.md "mention")
 
 ### Estimated Price on ENS Manager
 
@@ -32,4 +32,4 @@ The price displayed is a conservative estimate to ensure the user has the necess
 
 All transactions on the Ethereum blockchain incur a gas fee in addition to the registration fees. We recommend increasing the registration period to avoid paying gas every year.
 
-&#x20;Learn More: [what-are-gas-fees.md](../wallets/what-are-gas-fees.md "mention")
+&#x20;Learn More: [what-are-gas-fees.md](../dns-domain-names/wallets/what-are-gas-fees.md "mention")

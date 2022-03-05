@@ -1,4 +1,4 @@
-# Setting Your Primary Name
+# How do I set a Primary Name for my wallet?
 
 The Primary record is your _reverse record_ responsible for resolving your wallet address to your ENS name, effectively helping DApps and other services display your ENS name based on your wallet address_._
 
