@@ -14,4 +14,4 @@ After setting the Controller, you will be able to update the ETH Address record.
 
 Your ENS name can store payment addresses for more than just Ethereum. This includes BTC, LTC, DOGE, and _many_ more.
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (2).png>)
