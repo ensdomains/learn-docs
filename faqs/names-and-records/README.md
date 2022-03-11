@@ -20,6 +20,6 @@
 [how-do-i-add-a-non-eth-address-to-my-ens-name.md](how-do-i-add-a-non-eth-address-to-my-ens-name.md)
 {% endcontent-ref %}
 
-{% content-ref url="../ens-names/names-and-records/what-are-text-records-and-how-do-they-work.md" %}
-[what-are-text-records-and-how-do-they-work.md](../ens-names/names-and-records/what-are-text-records-and-how-do-they-work.md)
+{% content-ref url="what-are-text-records-and-how-do-they-work.md" %}
+[what-are-text-records-and-how-do-they-work.md](what-are-text-records-and-how-do-they-work.md)
 {% endcontent-ref %}

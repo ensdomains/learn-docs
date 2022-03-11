@@ -32,4 +32,4 @@ The price displayed is a conservative estimate to ensure the user has the necess
 
 All transactions on the Ethereum blockchain incur a gas fee in addition to the registration fees. We recommend increasing the registration period to avoid paying gas every year.
 
-&#x20;Learn More: [what-are-gas-fees.md](../dns-domain-names/wallets/what-are-gas-fees.md "mention")
+&#x20;Learn More: [what-are-gas-fees.md](../wallets/what-are-gas-fees.md "mention")

@@ -4,8 +4,8 @@
 [what-is-a-wallet.md](what-is-a-wallet.md)
 {% endcontent-ref %}
 
-{% content-ref url="what-are-gas-fees.md" %}
-[what-are-gas-fees.md](what-are-gas-fees.md)
+{% content-ref url="../../wallets/what-are-gas-fees.md" %}
+[what-are-gas-fees.md](../../wallets/what-are-gas-fees.md)
 {% endcontent-ref %}
 
 {% content-ref url="what-is-a-private-key.md" %}
