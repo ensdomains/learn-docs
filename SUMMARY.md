@@ -37,7 +37,7 @@
 
 * [Registering a Name](ens-explainers/registering-a-name.md)
 * [Setting Your Primary Name](ens-explainers/setting-your-primary-name.md)
-* [Setting Your Profile Avatar](ens-explainers/setting-your-profile-avatar.md)
+* [Setting your Profile Avatar](ens-explainers/setting-your-profile-avatar.md)
 * [Using Your Name](ens-explainers/using-your-name.md)
 * [Security Tips](ens-explainers/security-tips.md)
 
