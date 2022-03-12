@@ -13,7 +13,7 @@
   * [How much does it cost to register an ENS Name?](faqs/registrations-and-extensions/how-much-does-it-cost-to-register-an-ens-name.md)
   * [Why are there 3 steps for registration?](faqs/ens-names/registrations-and-renewals/why-are-there-3-steps-for-registration.md)
   * [What is a premium auction?](faqs/registrations-and-extensions/what-is-a-premium-auction.md)
-  * [I already paid for a registration, why isn't it in my wallet?](faqs/registrations-and-extensions/i-already-paid-for-a-registration-why-isnt-it-in-my-wallet.md)
+  * [Why isn't my ENS Name in my wallet?](faqs/registrations-and-extensions/why-isnt-my-ens-name-in-my-wallet.md)
   * [What is a grace period?](faqs/ens-names/registrations-and-renewals/what-is-a-grace-period.md)
   * [How do I use an ENS name after purchasing it on a secondary marketplace?](faqs/ens-names/registrations-and-renewals/how-do-i-use-an-ens-name-after-purchasing-it-on-a-secondary-marketplace.md)
 * [Names & Records](faqs/names-and-records/README.md)

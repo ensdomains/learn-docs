@@ -1,7 +1,14 @@
 # What is a grace period?
 
-The grace period is the amount of time the previous registrant of an ENS name has to extend the registration on the name after the current registration period ends. The grace period is 90 days.
+The **grace period** is the 90-day timeframe that the previous registrant of an ENS name has to extend the registration on an expired name.&#x20;
 
-During the grace period only the registrant can extend the registration for the ENS name. No one else can register an ENS name during the grace period.
+![](<../../../.gitbook/assets/Screen Shot 2022-03-11 at 12.53.33 PM.png>)
 
-If an ENS name does not have its registration extended during the grace period by the registrant, the ENS name will drop in to a Dutch auction. The auction will start at $100,000USD and go down over 28 days until it reaches the standard registration cost. For 5 character names and above the standard registration cost is $5USD per year. For 4 character names the standard registration cost is $160USD per year. For 3 character registration names the standard registration cost is $640USD per year. During an auction, anyone can register the ENS name.\
+During this 90-day grace period, only the registrant can extend the registration for the ENS name.
+
+![](<../../../.gitbook/assets/Screen Shot 2022-03-11 at 12.53.05 PM.png>)
+
+If the registrant does not renew an ENS Name, the name will enter a premium Dutch auction for 28-days. The auction currently starts at 100,000 USD and decreases over 28-days. If the name is purchased during the premium period, the purchaser will pay the premium auction price and the standard yearly fee.
+
+\
+\
