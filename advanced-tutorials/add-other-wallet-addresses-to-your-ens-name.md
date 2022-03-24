@@ -19,6 +19,6 @@ If your coin type is not listed in the pre-existing fields, find the coin dropdo
 
 When you have entered all of your desired cryptocurrency, or have made changes to your other records, scroll down to the bottom of the manager page.
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 To permanently make these changes, you must select the "Confirm" button. This will change the on-chain data and will incur a gas fee.

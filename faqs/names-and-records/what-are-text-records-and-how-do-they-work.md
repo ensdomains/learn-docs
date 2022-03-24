@@ -16,7 +16,7 @@ In the [ENS App](https://app.ens.domains), you can add a record by clicking the 
 
 You should see some drop down boxes appear that will allow you to choose to add a “TEXT” record, the kind of text record (e.g. “URL”), and then enter the information for that record:
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 Once you’re ready, click "Confirm" to send the transaction, and once it’s mined you should see it appear below.
 
