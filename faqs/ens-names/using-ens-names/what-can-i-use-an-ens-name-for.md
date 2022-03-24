@@ -4,7 +4,7 @@
 
 The first and most common use-case for ENS names is to use it as an easy-to-remember name for your cryptocurrency addresses.
 
-**ENS supports a many different cryptocurrencies** which can be added to it from the [ENS Manager App](https://app.ens.domains) allowing you to receive payments in more cryptocurrencies than just Ethereum.  This reduces confusion associated with remembering your hexadecimal wallet address and provides clear payment options that integrated in to most wallet apps.
+**ENS supports many different cryptocurrencies** which can be added to it from the [ENS Manager App](https://app.ens.domains) allowing you to receive payments in more cryptocurrencies than just Ethereum.  This reduces confusion associated with remembering your hexadecimal wallet address and provides clear payment options that integrated in to most wallet apps.
 
 ### Point to decentralized websites
 
