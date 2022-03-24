@@ -6,7 +6,7 @@ Whenever you make a transaction on the Ethereum blockchain there are fees incurr
 
 If set too low the transaction will stall, and will drop once the mempool is full, but you won't be charged for gas. This fee is burned as of [EIP-1559](https://notes.ethereum.org/@vbuterin/eip-1559-faq).
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (2) (1) (1).png>)\
 
 
 ### 2. Tip (or priority fee)
