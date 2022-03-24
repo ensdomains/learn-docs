@@ -20,7 +20,6 @@
   * [Why isn't the Resolver set to my address?](faqs/ens-names/names-and-records/why-isnt-the-resolver-set-to-my-address.md)
   * [How do I set a Primary Name for my wallet?](faqs/ens-names/names-and-records/how-do-i-set-a-primary-name-for-my-wallet.md)
   * [What is a Primary Name?](faqs/names-and-records/what-is-a-primary-name.md)
-  * [How do I set an NFT as my ENS profile avatar?](faqs/names-and-records/how-do-i-set-an-nft-as-my-ens-profile-avatar.md)
   * [How do I add a non-ETH address to my ENS name?](faqs/names-and-records/how-do-i-add-a-non-eth-address-to-my-ens-name.md)
   * [What are text records and how do they work?](faqs/names-and-records/what-are-text-records-and-how-do-they-work.md)
 * [Using ENS Names](faqs/using-ens-names/README.md)
