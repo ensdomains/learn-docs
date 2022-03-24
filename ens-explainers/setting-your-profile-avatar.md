@@ -16,11 +16,11 @@ You're probably aware of what gas fees on the Ethereum network are by now (if no
 
 ### Setting the Avatar record
 
-Go to [app.ens.domains](https://app.ens.domains) and search for your ENS name to get to its records page. Make sure you Connect with the wallet that owns the ENS name. You should see an `ADD/EDIT RECORD` button. Click it, and you’ll be shown a highlighted dropdown box.
+Go to [app.ens.domains](https://app.ens.domains) and search for your ENS name to get to its records page. Make sure you Connect with the wallet that is the Controller of the ENS name. You should see an `ADD/EDIT RECORD` button. Click it, and scroll down until you find the Avatar Text Record.
 
-![](<../.gitbook/assets/Screenshot from 2022-01-06 13-31-51.png>)
+![](<../.gitbook/assets/image (2).png>)
 
-In the first dropdown box select `text`, then once the second dropdown box appears, select `avatar`. You can put an HTTPS link or IPFS hash to a file in this field, but if you’d like to put an **NFT that you own**, then you can input it **with this format**:
+You can put an HTTPS link or IPFS hash to a file in this field, but if you’d like to put an **NFT that you own**, then you can input it **with this format**:
 
 ```
 eip155:1/[NFT standard]:[contract address for NFT collection]/[token ID or the number it is in the collection]

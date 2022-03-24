@@ -8,7 +8,7 @@ We recommend setting multiple addresses at once to save on gas fees. Adding or r
 
 In the ENS Manager, you can add a cryptocurrency address by copying and pasting your cryptocurrency address in the corresponding address field.
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 If your coin type is not listed in the pre-existing fields, find the coin dropdown menu and select your currency. After pasting your address into the text field click the "Save" button.&#x20;
 
