@@ -14,7 +14,3 @@ Some examples are:
 **Important:** If you've changed the default ENS Public Resolver, you can set it back to default on the [ENS App](https://app.ens.domains). The ENS Public Resolver is:\
 _0x4976fb03C32e5B8cfe2b6cCB31c09Ba78EBaBa41_
 {% endhint %}
-
-
-
-### Furth
