@@ -12,8 +12,8 @@
 [what-is-a-primary-name.md](what-is-a-primary-name.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-do-i-set-an-nft-as-my-ens-profile-avatar.md" %}
-[how-do-i-set-an-nft-as-my-ens-profile-avatar.md](how-do-i-set-an-nft-as-my-ens-profile-avatar.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="how-do-i-add-a-non-eth-address-to-my-ens-name.md" %}

@@ -3,7 +3,6 @@
 ## Getting Started
 
 * [Welcome!](README.md)
-* [Beginner's Guide](getting-started/beginners-guide.md)
 * [Join the Community](getting-started/join-the-community.md)
 
 ## FAQs
